@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculaçã1</string>
+    <string name="number_prox">Número mais próximo (caso decimal)</string>
+    <string name="incorret_equation">Equação incorreta</string>
+    <string name="inteiro">Apenas numeros inteiros</string>
+    <string name="number">Digite um número antes da operação</string>
+    <string name="null_valor">Nenhum valor encontrado</string>
+    <string name="e">Digite a operação e em seguida o e</string>
+    <string name="pi">Digite a operação e em seguida o pi</string>
+    <string name="sinal">Não é possível inverter o sinal</string>
+    <string name="incorret_mod">Modo incorreto de iniciar uma operação</string>
+</resources>
